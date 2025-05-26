@@ -6,7 +6,7 @@ This is a **static React-based Healthcare Dashboard UI** built as part of a Web 
 
 ## 🌐 Live Demo
 
-Coming soon...
+https://fitpeobymd.vercel.app/
 
 ---
 

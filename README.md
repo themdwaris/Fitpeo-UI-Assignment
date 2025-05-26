@@ -127,6 +127,6 @@ Mock data is organized under the `src/data/` folder:
 
 ## 📊 Author
 
-Mohammad Waris | [LinkedIn](https://linkedin.com/in/themdwaris)
+Mohammad Waris | [LinkedIn](https://linkedin.com/in/themdwaris) | [Portfolio](https://themdwariss.netlify.app)
 
 
